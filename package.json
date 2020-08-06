@@ -1,9 +1,9 @@
 {
   "name": "@coreui/coreui-free-react-admin-template",
   "version": "3.0.0",
-  "description": "SARS-COV2 Control",
+  "description": "CoreUI React Open Source Bootstrap 4 Admin Template",
   "author": {
-    "name": "Andrés Robles A",
+    "name": "CoreUI",
     "url": "https://coreui.io",
     "github": "https://github.com/coreui",
     "twitter": "https://twitter.com/core_ui"
